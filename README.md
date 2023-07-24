@@ -20,7 +20,7 @@ In this project, I used React to render lists of available menu items from an ar
   git clone https://github.com/Johnadibe/first-project-react-basics.git
   ```
 
-- Navigate to pizza-menu folder/directory
+- Navigate to folder folder/directory
 
   ```bash
   cd pizza-menu
